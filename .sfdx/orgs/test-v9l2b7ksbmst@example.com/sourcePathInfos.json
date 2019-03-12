@@ -32,14 +32,14 @@
     [
         "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552390413085,
             "changeTime": 1552390413085,
-            "contentHash": "8100b331d5798b52156dc4652bd8f9af5e029000"
+            "contentHash": "8100b331d5798b52156dc4652bd8f9af5e029000",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -75,31 +75,27 @@
     [
         "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\testaccount.cls",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\testaccount.cls",
             "isDirectory": false,
-            "size": 113,
-            "modifiedTime": 1552390109416,
-            "changeTime": 1552390109416,
-            "contentHash": "a015f3f91e383977d6a1e2d89fcdbbf447f8e598",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 200,
+            "modifiedTime": 1552394376750,
+            "changeTime": 1552394376750,
+            "contentHash": "8146eff414beb88e87f82da6c2ee8e37a9289ef8"
         }
     ],
     [
         "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\testaccount.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\testaccount.cls-meta.xml",
             "isDirectory": false,
-            "size": 189,
-            "modifiedTime": 1552390056534,
-            "changeTime": 1552390056534,
-            "contentHash": "6ba3d204719624b536909ff61abcaa4f6c63c13f",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 174,
+            "modifiedTime": 1552394376743,
+            "changeTime": 1552394376743,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
         }
     ],
     [
@@ -108,39 +104,38 @@
             "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1552382151311,
-            "changeTime": 1552382151311,
-            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "modifiedTime": 1552392405929,
+            "changeTime": 1552392405929,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
         "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18701,
             "modifiedTime": 1552390413121,
             "changeTime": 1552390413121,
-            "contentHash": "7bdb7d490e6d0e2ae641a746e761c13f080b261e"
+            "contentHash": "7bdb7d490e6d0e2ae641a746e761c13f080b261e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552390413113,
             "changeTime": 1552390413113,
-            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
