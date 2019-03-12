@@ -1,0 +1,122 @@
+[
+    [
+        "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552382108832,
+            "changeTime": 1552382108832,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552390056530,
+            "changeTime": 1552390056530,
+            "contentHash": "65a52465c1dfc0180b682e93964226f4c8530589",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552382108832,
+            "changeTime": 1552382108832,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552382108832,
+            "changeTime": 1552382108832,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552382165051,
+            "changeTime": 1552382165051,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\testaccount.cls",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\testaccount.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 113,
+            "modifiedTime": 1552390109416,
+            "changeTime": 1552390109416,
+            "contentHash": "a015f3f91e383977d6a1e2d89fcdbbf447f8e598",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\testaccount.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch\\force-app\\main\\testaccount.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1552390056534,
+            "changeTime": 1552390056534,
+            "contentHash": "6ba3d204719624b536909ff61abcaa4f6c63c13f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\Cloud\\Desktop\\New folder\\example\\testscratch",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552382151311,
+            "changeTime": 1552382151311,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
